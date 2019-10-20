@@ -8,7 +8,6 @@ chardet==3.0.4
 cymem==2.0.2
 decorator==4.4.0
 defusedxml==0.6.0
-en-core-web-sm==2.2.0
 entrypoints==0.3
 idna==2.8
 importlib-metadata==0.23
@@ -44,7 +43,7 @@ Pygments==2.4.2
 pyrsistent==0.15.4
 python-dateutil==2.8.0
 pyzmq==18.1.0
-requests==2.22.0
+requests==2.21.0
 Send2Trash==1.5.0
 six==1.12.0
 spacy==2.2.1

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web-Summarizer-Extension" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/traversy-launcher" vcs="Git" />
   </component>
 </project>
