@@ -1,32 +1,40 @@
 body {
-  font-family: Arial;
+  background-color: #2F303A;
 }
 
-* {
-  box-sizing: border-box;
+h1{
+  text-align: center;
+  font: 60px Grenze;
+  color: #C4C4C4;
+  margin-bottom: -10;
 }
 
-form.example input[type=text] {
-  padding: 10px;
-  font-size: 24px;
-  border: 1px solid grey;
-  float: central;
-  width: 70%;
-  background: #ECECEC;
+h2{
+  text-align: center;
+  font: 25px Grenze, Italic;
+  color: #C4C4C4;
+  margin-bottom: 10px;
 }
 
-form.example button {
-  float: left;
-  width: 20%;
-  padding: 10px;
-  background: #2196F3;
-  color: white;
-  font-size: 17px;
-  border: 1px solid grey;
-  border-left: none;
-  cursor: pointer;
+hr{
+  margin-top: -5px;
+  margin-bottom: 5px;
+  width: 45%;
 }
 
-form.example button:hover {
-  background: #0b7dda;
+div.myButton{
+  background-image: url(/images/icon.png);
+  background-repeat: no-repeat;
+  align-items: baseline;
+}
+
+.form-control{
+  width: 6/7*100%;
+  margin-top: 10px;
+  height: 40px;
+  color: #C4C4C4;
+  text-si
+}
+.button{
+  align-items: baseline;
 }
